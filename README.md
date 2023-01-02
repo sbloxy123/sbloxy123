@@ -9,7 +9,7 @@ Prior to joining Le Wagon Bootcamp I was self-taught 🧑‍💻 in HTML, CSS, J
 ### What's next 📚?
 I'm currently advancing my Javascript skills and am learning Typescript. After this, I'm interested in NextJS and am keeping an eye on Svelte as the community grows.
 
-<br/><br/>
+<br/>
 
 - 🔭 I’m currently working on Javascript, React, Gatsby & Ruby on Rails
 - 🌱 I’m currently learning Typescript Advanced Javascript & NextJS

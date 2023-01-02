@@ -4,6 +4,8 @@
 
 ### I'm currently advancing my Javascript skills and am learning Typescript. After this, I'm interested in NextJS and am keeping an eye on Svelte as the community grows.
 
+
+
 - 🔭 I’m currently working on Javascript, React, Gatsby & Ruby on Rails
 - 🌱 I’m currently learning Typescript Advanced Javascript & NextJS
 - 👀 I'm keeping an eye on RemixJS (React framework) and Svelte

@@ -12,7 +12,7 @@ I'm currently advancing my Javascript skills and am learning Typescript. After t
 <br/>
 
 - 🔭 I’m currently working on Javascript, React, Gatsby & Ruby on Rails
-- 🌱 I’m currently learning Typescript Advanced Javascript & NextJS
+- 🌱 I’m currently learning Typescript, Advanced Javascript & NextJS
 - 👀 I'm keeping an eye on RemixJS (React framework) and Svelte
 - 👯 I’m looking to collaborate on side projects and client work
 - 🤔 I’m looking for help with advancing my career in Web Development

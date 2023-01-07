@@ -4,7 +4,7 @@
 Whilst having a strong background in client-facing roles I stumbled across Web Development and saw it as a great step forward in my career. Upon dipping my toes into the code, I was instantly hooked and wanted to build a career in the industry 🎉.
 
 ### Skills ⬆️:
-Self-taught 🧑‍💻 in HTML, CSS, Javascript, React & Gatsby and joined Le Wagon's Bootcamp 🧑‍🎓 where I picked up a more professional experience and a multitude of disciplines as a Full Stack Developer including Javascript, Ruby on Rails, Git, relational databases, and working with API’s, all whilst working with teammates 👬 through Slack, Git & Zoom.
+Self-taught 🧑‍💻 in HTML, CSS, Javascript, React & Gatsby and joined Le Wagon's Bootcamp 🧑‍🎓 where I picked up a more professional experience with a multitude of disciplines as a Full Stack Developer including Javascript, Ruby on Rails, Git, relational databases, and working with API’s, all whilst working with teammates 👬 through Slack, Git & Zoom.
 
 ### What's next 📚?
 I'm currently advancing my Javascript skills and am learning Typescript. After this, I'm interested in NextJS and am keeping an eye on Svelte as the community grows.

@@ -1,4 +1,5 @@
-### Hey, I'm Stuart Bloxham 👋 I'm a Full Stack Developer based in Hertfordshire, England. 
+### Hey, I'm Stuart Bloxham 👋 I'm a Full Stack Developer based in Hertfordshire, England.
+### Here's a link to my portfolio - https://sbloxy123.github.io/profile/ 😀
 
 ### About me 👨‍🦱:
 Whilst having a strong background in client-facing roles I stumbled across Web Development and saw it as a great step forward in my career. Upon dipping my toes into the code, I was instantly hooked and wanted to build a career in the industry 🎉.

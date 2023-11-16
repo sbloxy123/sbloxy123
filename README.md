@@ -17,5 +17,5 @@ I'm currently advancing my Javascript skills, learning Typescript and improving 
 - 👀 I'm keeping an eye on RemixJS (React framework) and Svelte
 - 👯 I’m looking to collaborate on side projects and client work
 - 🤔 I’m looking for help with advancing my career in Web Development
-- 📫 How to reach me: s.bloxham@hotmail.co.uk || on slack @ s.bloxham
+- 📫 How to reach me: sbloxy123@gmail.com || on slack @ s.bloxham
 

@@ -13,10 +13,10 @@ I'm currently advancing my Javascript skills, learning Typescript and improving 
 
 <br/>
 
-- 🔭 I’m currently working with Javascript, React, Next Js, Tailwind CSS, Sanity.io, SCSS
-- 🌱 I’m currently improving my Typescript, Advanced Javascript & NextJS
-- 👀 I'm keeping an eye on Svelte.js
+- 🔭 I’m currently working with Javascript, Typescript, React, Next Js, CSS/SCSS, Tailwind CSS, Sanity.io CMS
+- 🌱 I’m improving my Typescript, Advanced Javascript & Next.js knowledge
+- 👀 I'm keeping an eye on Svelte.js as the community grows
 - 👯 I’m looking to collaborate on side projects and client work
-- 🤔 I’m looking for help with advancing my career in Web Development
+- 🤔 I’m looking to advancing my career in Web Development with modern technologies
 - 📫 How to reach me: stuartjbloxham@gmail.com || on slack @ s.bloxham
 

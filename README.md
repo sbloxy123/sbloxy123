@@ -1,5 +1,5 @@
 ### Hey, I'm Stuart Bloxham 👋 I'm a Front End Developer based in Hertfordshire, England.
-### Here's a link to my portfolio - https://www.stuartbloxham.co.uk 😀
+### Here's a link to my freelance portfolio - https://www.bloxie.co.uk 😀
 
 ### About me 👨‍🦱:
 Currently building and maintaining websites at an Ed-Tech company using Vanilla JS, SCSS, HTML and ASP.NET. Also freelancing and studying in evenings and weekends, using more modern technologies such as React/Next.js, Tailwind CSS, Sanity.io to keep myself current within the industry 🎉.
@@ -13,7 +13,7 @@ I'm currently advancing my Javascript skills, learning Typescript and improving 
 
 <br/>
 
-- 🔭 I’m currently working with Javascript, Typescript, React, Next Js, CSS/SCSS, Tailwind CSS, Sanity.io CMS
+- 🔭 I’m currently working with **Javascript**, **Typescript**, **React**, **Next Js**, **CSS/SCSS**, **Tailwind CSS**, **Sanity.io CMS**
 - 🌱 I’m improving my Typescript, Advanced Javascript & Next.js knowledge
 - 👀 I'm keeping an eye on Svelte.js as the community grows
 - 👯 I’m looking to collaborate on side projects and client work
